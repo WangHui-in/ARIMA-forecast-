@@ -4,7 +4,7 @@
 This repository is dedicated to developing a predictive model for U.S. natural disasters using historical disaster declaration data. The Python script in this repository, named DisasterForecast.py, applies advanced statistical and machine learning methods to forecast the likelihood and potential severity of future natural disasters in the United States.
 
 ## Data Source
-The dataset utilized for this forecasting project is sourced from Kaggle and includes comprehensive records of U.S. natural disaster declarations. You can access the dataset here.
+The dataset utilized for this forecasting project is sourced from Kaggle and includes comprehensive records of U.S. natural disaster declarations. You can access the dataset here.https://www.kaggle.com/datasets/headsortails/us-natural-disaster-declarations/data
 
 ## Project Purpose
 1.Disaster Prediction: Use historical data to model and predict future natural disasters in the U.S.
