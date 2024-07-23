@@ -4,7 +4,7 @@ from statsmodels.tsa.arima.model import ARIMA
 import matplotlib.pyplot as plt
 
 # Load FEMA data
-fema_data = pd.read_csv('/Users/apple/Desktop/environment/archive (32)/us_disaster_declarations.csv')
+fema_data = pd.read_csv('us_disaster_declarations.csv')
 
 # Convert dates into datetime objects
 fema_data['declaration_date'] = pd.to_datetime(fema_data['declaration_date'])
